@@ -1,4 +1,4 @@
-👋 Hello, I'm Andrey, a senior software developer with over 10 years of experience in creating innovative software solutions.
+👋 Hello, I am a senior software developer with over 5 years of experience in creating innovative software solutions.
 
 🚀 My passion for coding and creating elegant solutions has driven me to work on a wide range of projects, from developing web applications and APIs to creating automation scripts and tools.
 
